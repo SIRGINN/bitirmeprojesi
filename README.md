@@ -1,5 +1,6 @@
 # PROJECT-NAME (EN)
 PROJE-ADI Turkce (turkce)
+Proje adı: apple mobil app
 
 1-3 satirda projenizin yaptigi islem (EN)  
 Projenizin kısa ve ilgi çekici bir açıklaması (TR).
@@ -9,11 +10,11 @@ Projenizin kısa ve ilgi çekici bir açıklaması (TR).
 ## Features / Özellikler
 
 - *Feature 1:* Description of the feature.  
-  Özellik 1: Özelliğin açıklaması.
+  Özellik 1: tek tıkla kategori ulaşma.
 - *Feature 2:* Another cool thing it does.  
-  Özellik 2: Yaptığı başka bir harika şey.
+  Özellik 2: gece ve gündüz modu.
 - *Feature 3:* One more for good measure.  
-  Özellik 3: Ve bir tane daha.
+  Özellik 3: windows ve mobil e ayrı çözünülürlük.
 - Add more as they develop.  
   Geliştikçe daha fazla ekleyin.
 
@@ -23,8 +24,10 @@ Projenizin kısa ve ilgi çekici bir açıklaması (TR).
 
 - *219*031* - Name Surname: Role or Contribution  
   Ad Soyad: Rolü veya Katkısı
+Selim irgin -212016732 - genel katkı
 - *Another Member* - Name Surname: Role or Contribution  
   Ad Soyad: Rolü veya Katkısı
+Mustafa Can Çelik - 212016740 - genel katkı
 - Add more members as needed.  
   Gerektiğinde daha fazla üye ekleyin.
 
